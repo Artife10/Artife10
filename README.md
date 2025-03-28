@@ -10,4 +10,4 @@ Game Dev/Artist
 
 Oh yeah I like reading and stuff idk
 
-Sleeper agent
+Fading club fan
