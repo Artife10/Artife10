@@ -7,5 +7,5 @@ Game Dev/Artist<br>
 
 <details align="center">
 <summary>Mofh</summary>
-<img src="moth.gif" width="500">
+<img src="moth2.gif" width="500">
 </details>
