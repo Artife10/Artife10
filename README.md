@@ -5,7 +5,7 @@ Game Dev/Artist<br>
 <img src="slungus-bunny.gif">
 </h2>
 
-<details>
+<details align="center">
 <summary>Mofh</summary>
 <img src="moth.gif" width="500">
 </details>
